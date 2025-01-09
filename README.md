@@ -13,3 +13,14 @@ Features:
 Prerequisites :  
 Node.js v16 or later  
 MongoDB
+
+
+API Endpoints
+1. POST /api/upload  
+Upload an image and compress it.
+
+Request  
+Content-Type: multipart/form-data  
+Body: Key: image (The image file to upload)  
+
+2. GET /api/metadata
