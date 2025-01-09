@@ -1,5 +1,7 @@
 # Image-upload-api
 
+Video Explanation : https://drive.google.com/drive/folders/1WNNd0YXlbSa2y3cExXgAAOw-Kvq_OG6c?usp=drive_link  
+
 Image Upload API with Compression
 This project is a RESTful API built with Node.js and Express that allows users to upload image files, compress them, and store them. It uses Multer for file handling and Sharp for image compression. The project also integrates MongoDB to store image metadata (optional), and the connection configurations are managed using a .env file.
 
